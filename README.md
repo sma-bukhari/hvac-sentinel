@@ -25,7 +25,7 @@ Data is processed via an Autoencoder network that learns the statistical distrib
 
 
 ## 📂 Repository Structure
-* `/simulation` - Python scripts for synthetic data generation and model training.
+* `/scripts` - Python scripts for synthetic data generation and model training.
 * `/firmware` - Arduino/C++ code for the ESP8266 sensor node.
 * `/docs` - Technical Whitepaper and project proposal.
 
